@@ -1,0 +1,10 @@
+# .gitignore
+venv/
+__pycache__/
+
+client ID
+523208006991-87mvogr6pm8fel1jreda7c1fc9n8vpra.apps.googleusercontent.com
+
+
+client secret
+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
